@@ -1,0 +1,9 @@
+# Ignore large model files and audio outputs
+*.onnx
+*.bin
+*.json
+*.wav
+
+# Ignore python virtual environments
+.venv/
+__pycache__/
